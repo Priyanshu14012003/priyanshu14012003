@@ -15,7 +15,7 @@ I am a college student currently, passionate about exploring cutting-edge techno
 ## Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,ps,mysql,flask,wordpress,react,html,css,js,figma,git,github,gitlab,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,mysql,flask,html,css,js,figma,git,github,vscode" />
 </p>
 
 ---
