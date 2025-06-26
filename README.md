@@ -17,7 +17,7 @@ I enjoy solving real-world problems through code and continuously learning new t
 ## Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,mysql,flask,HTML,CSS,JS,Figma,Git,Github,VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,mysql,flask,html,css,js,figma,git,github,vscode" />
 </p>
 
 ---
