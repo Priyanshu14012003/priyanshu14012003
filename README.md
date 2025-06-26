@@ -1,21 +1,23 @@
 <h1 align="center">Priyanshu Rohilla</h1>
 
 <p align="center">
-  <em>AI/ML Enthusiast | Web & Android Developer | Lifelong Learner</em>
+  <em>AI/ML Enthusiast | Web Developer | Lifelong Learner</em>
 </p>
 
 ---
 
 ## About
+Hi there! I'm a recent AIML graduate passionate about building innovative and scalable tech solutions. My interests span across Artificial Intelligence, Machine Learning, and  Web Development.
 
-I am a college student currently, passionate about exploring cutting-edge technologies in **Artificial Intelligence**, **Machine Learning**, **Web Development**, and **Android Development**. My goal is to build impactful solutions and contribute to the tech community.
+I enjoy solving real-world problems through code and continuously learning new technologies. Currently exploring opportunities to contribute to impactful projects, collaborate with like-minded developers, and grow within the tech community.
 
+🛠️ Always open to connecting, contributing, and creating!
 ---
 
 ## Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,mysql,flask,html,css,js,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,mysql,flask,HTML,CSS,JS,Figma,Git,Github,VS Code" />
 </p>
 
 ---
