@@ -49,8 +49,8 @@
 ## :bar_chart: GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakrohilla01&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakrohilla01&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshurohilla&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshurohilla&theme=tokyonight" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## :fire: Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakrohilla01&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshurohilla&theme=tokyo-night" />
 </p>
 
 ---
